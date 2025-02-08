@@ -1,0 +1,15 @@
+body {
+    background-color: red; /* Красный фон */
+    color: white; /* Белый цвет текста */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.message {
+    font-size: 2rem; /* Размер шрифта */
+    text-transform: uppercase; /* Все буквы заглавные */
+    letter-spacing: 2px; /* Промежутки между буквами */
+}
